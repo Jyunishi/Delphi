@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.07.15 11:51:56.648.pas,C:\Users\dev\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\dev\Documents\RAD Studio\Projects\custom item experiment\Unit1.pas</Transaction>
+    <Transaction>2016.07.15 11:51:56.648.dfm,C:\Users\dev\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\dev\Documents\RAD Studio\Projects\custom item experiment\Unit1.dfm</Transaction>
+    <Transaction>2016.07.15 11:51:59.945.dproj,C:\Users\dev\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\dev\Documents\RAD Studio\Projects\custom item experiment\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
