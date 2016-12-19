@@ -112,7 +112,7 @@ object Form1: TForm1
     LoginPrompt = False
     Left = 608
     Top = 200
-    EncryptedPassword = 'ABFFA6FF94FFC6FF85FF9EFFB1FF'
+    EncryptedPassword = ''
   end
   object OraQuery1: TOraQuery
     Session = OraSession1
